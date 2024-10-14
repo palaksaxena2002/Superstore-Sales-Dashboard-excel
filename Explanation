@@ -1,0 +1,38 @@
+The image represents an **Interactive Superstore Sales Dashboard** for a 4-year period (from 2013 to 2018) in Excel, showcasing sales, profitability, and performance across various categories and dimensions. Here’s a detailed breakdown of the elements:
+
+### Top Section: Key Performance Indicators (KPIs)
+- **Sales Latest Year**: Displays total sales for the most recent year (733,215).
+- **Sales Last Year**: Shows total sales for the previous year (609,206).
+- **Sales Growth vs PY (Previous Year)**: Indicates the growth in sales compared to the previous year (20.4%).
+- **Profit Latest Year**: Displays total profit for the most recent year (93,439).
+- **Profit Last Year**: Shows total profit for the previous year (81,795).
+- **Profit Growth vs PY**: Indicates profit growth compared to the previous year (14.2%).
+
+### Middle Section: Sales and Profit Breakdown by Sub-Category and City
+- **Sub-Categories (Furniture, Office Supplies, Technology)**: 
+   - Each sub-category has a breakdown of sales for 2017 and 2016, showing year-over-year comparisons (vs PY) and percentage growth or decline.
+   - Sub-categories include Phones, Chairs, Storage, Binders, Tables, Copiers, Accessories, Machines, Appliances, and Furnishings.
+
+- **Cities**: Shows sales performance for cities such as New York City, Los Angeles, Seattle, Philadelphia, San Francisco, Detroit, Houston, Chicago, Columbus, and Lafayette.
+   - The table includes sales for 2017 and 2016, with a comparison of year-over-year changes and percentage growth (or decline) in each city.
+
+### Middle Section Filters:
+- **Category Filters**: Allows users to filter data by product categories (e.g., Furniture, Office Supplies, Technology).
+- **Segment Filters**: Users can filter by customer segments (e.g., Consumer, Corporate, Home Office).
+- **Ship Mode Filters**: Different shipping modes (e.g., First Class, Same Day, Second Class, Standard Class) are available to filter data for further analysis.
+
+### Bottom Section: Visualizations (Charts)
+- **Chart 1: Sales and Price by Quarter for 4 Years**:
+   - This chart visualizes quarterly sales trends along with price movements for four years (2014 to 2017). The sales are represented as bars, and the price is depicted as a line overlaying the sales bars. 
+   - Each quarter (Qtr 1 to Qtr 4) for the respective years shows sales performance in terms of volume and average prices for each period.
+
+- **Chart 2: States with Highest All-Time Sales**:
+   - This bar chart shows a comparison of total sales across various states.
+   - Top-performing states such as California (457.7k), New York (310.9k), Texas (170.2k), and others are highlighted, giving insight into the states with the highest historical sales.
+
+### Overall Structure:
+- The dashboard is **interactive** with multiple filters and visualizations to allow users to drill down into sales performance by product category, customer segment, shipping mode, and geographical location. 
+- The use of color-coded arrows (green for growth, red for decline) helps users quickly identify performance changes, providing an intuitive view of the data.
+
+### Summary:
+This dashboard gives a comprehensive overview of **sales performance** and **profitability trends** over the 4-year period across different categories, customer segments, cities, and states. The charts and tables are well-organized to allow detailed analysis, helping users easily navigate and explore the superstore’s performance.
