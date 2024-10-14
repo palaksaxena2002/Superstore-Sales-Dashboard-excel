@@ -1,0 +1,31 @@
+The image shows a wireframe layout for an **Interactive Superstore Sales Dashboard** in Excel, intended to display sales data for the last four years. Here's a breakdown of the elements:
+
+### Top Section:
+- **Text Box 1**: Displays the sales for the most recent year.
+- **Text Box 2**: Shows the sales for the previous year.
+- **Text Box 3**: Indicates growth percentage compared to the previous year (PY).
+- **Text Box 4**: Displays profit for the most recent year.
+- **Text Box 5**: Shows profit for the previous year.
+- **Text Box 6**: Indicates profit growth percentage compared to the previous year (PY).
+
+### Middle Section:
+This section has four tables showing sales data from 2017 and 2016:
+- **Table 1**: Sales by sub-category.
+- **Table 2**: Sales by cities.
+- **Table 3**: Sales by sub-category (possibly a duplicate for verification).
+- **Table 4**: Sales by cities (possibly another view for comparison).
+
+Each table has corresponding **Filter Buttons**:
+- **Filter Buttons for Category**: Allows filtering sales data based on product categories.
+- **Filter Buttons for Segment**: Allows filtering based on customer segments.
+
+### Bottom Section:
+- **Chart 1**: Displays a trend of sales and prices by quarter over the last four years.
+- **Chart 2**: Shows states with the highest and lowest all-time sales.
+
+Each chart also has corresponding **Filter Buttons**:
+- **Filter Buttons for Ship Mode**: Allows filtering the data based on shipping mode.
+- **Filter Buttons for Category and Segment**: Additional filters to adjust the chart view.
+
+### Overview:
+The dashboard is designed to provide insights into sales and profitability trends, broken down by categories, customer segments, cities, and shipping modes. It incorporates key performance indicators (KPIs) in text boxes at the top, with interactive filters and data visualizations that allow users to drill down into the data.
